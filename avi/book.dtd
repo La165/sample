@@ -1,0 +1,6 @@
+<!ELEMENT employee_info(emp)+>
+<!ELEMENT emp(eid,ename,equalification,especialization+)>
+<!ELEMENT eid(#PCDATA)>
+<!ELEMENT ename(#PCDATA)>
+<!ELEMENT equalification(#PCDATA)>
+<!ELEMENT especialization(#PCDATA)>

@@ -1,0 +1,20 @@
+<bookstore>
+<book>
+<bid>511</bid>
+<bname>Web Technoloiges</bname>
+<bauthor>james brook</bauthor>
+<bprice>500</bprice>
+</book>
+<book>
+<bid>512</bid>
+<bname>JAVA</bname>
+<bauthor>jalda</bauthor>
+<bprice>1000</bprice>
+</book>
+<book>
+<bid>513</bid>
+<bname>mechanics</bname>
+<bauthor>Ravi</bauthor>
+<bprice>1500</bprice>
+</book>
+</bookstore>

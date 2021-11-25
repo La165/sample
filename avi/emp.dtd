@@ -1,0 +1,23 @@
+<?xmlversion="1.0" encoding="UTF-8"?>
+<!DOCTYPE bookstore SYSTEM "emp.dtd">
+
+<employee-info>
+<emp>
+<eid>111</eid>
+<ename>vijay</ename>
+<equalification>mtech</equalification>
+<especialization>oracal</especialization>
+</emp>
+<emp>
+<eid>112</eid>
+<ename>peter</ename>
+<equalification>mtech</equalification>
+<especialization>cyber security</especialization>
+</emp>
+<emp>
+<eid>113</eid>
+<ename>parker</ename>
+<equalification>mtech</equalification>
+<especialization>python</especialization>
+<especialization>Database</especialization>
+</emp>
